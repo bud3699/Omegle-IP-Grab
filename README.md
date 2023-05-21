@@ -1,6 +1,7 @@
 # Omegle-IP-Grab
 
 (Educational purposes only)
+If you like the script then please star the repo
 
 
 ## Why?
